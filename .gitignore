@@ -1,0 +1,27 @@
+# Node
+node_modules/
+dist/
+
+# React
+.env
+
+# Spring Boot
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+
+# Secrets
+application-local.properties
